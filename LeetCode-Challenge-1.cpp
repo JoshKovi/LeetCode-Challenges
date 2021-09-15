@@ -8,7 +8,7 @@ for testing. Not otherwise docuumented.
 #include <iostream>
 #include <string>
 #include <vector>
-#include <algorithm>
+
 
 using namespace std;
 
@@ -46,7 +46,7 @@ int main() {
 			tempString.insert(dashPos.at(i), charFound.at(i));
 		}
 
-		cout << tempString << "    |    " << insertString[4] << endl << endl;
+		cout << tempString << endl << endl;
 	} while (insertString != "0");
 
 
