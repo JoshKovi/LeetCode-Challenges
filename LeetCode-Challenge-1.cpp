@@ -1,6 +1,6 @@
 /*
 This was a leet code challenge to reverse a string of english characters while not
-sswapping character positions of any non english character, adapted to console 
+swapping character positions of any non english character, adapted to console 
 for testing. Not otherwise docuumented.
 */
 
